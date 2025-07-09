@@ -24,7 +24,7 @@ A clean, modern, and responsive **To-Do List** web application built with **HTML
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 ![To-Do List UI Preview](./ouput.png)  
 

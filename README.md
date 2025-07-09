@@ -43,7 +43,6 @@ A clean, modern, and responsive **To-Do List** web application built with **HTML
 🙋‍♀ Author
 
 Built with ❤ by Saranya Kuchimanchi
-🔗 GitHub Profile
 
 
 ---

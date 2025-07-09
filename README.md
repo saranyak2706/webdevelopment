@@ -32,10 +32,9 @@ A clean, modern, and responsive **To-Do List** web application built with **HTML
 
 ## 🛠 Tech Stack
 
-- *HTML5* – for structure
-- *CSS3* – for layout and styling
-- *Vanilla JavaScript* – for interactivity
-- *Font Awesome* – for task icons
+- **HTML5** – for structure
+- **CSS3** – for layout and styling
+- **JavaScript** – for dynamic functionality
 
 ---
 
